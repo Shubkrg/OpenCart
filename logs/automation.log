@@ -1,0 +1,84 @@
+2024-09-04 17:38:44 DEBUG TestNG:82 -
+			suiteXmlPath: "E:\QA_Project\OpenCart\grid-docker.xml"
+2024-09-04 17:38:45 INFO  Utils:112 -
+			[TestNG] Running:
+  E:\QA_Project\OpenCart\grid-docker.xml
+
+2024-09-04 17:38:54 INFO  TC001_AccountRegistrationTest:22 -
+			***** Starting TC001_AccountRegistrationTest  ****
+2024-09-04 17:38:54 DEBUG TC001_AccountRegistrationTest:23 -
+			This is a debug log message
+2024-09-04 17:38:55 INFO  TC001_AccountRegistrationTest:28 -
+			Clicked on MyAccount Link.. 
+2024-09-04 17:38:56 INFO  TC001_AccountRegistrationTest:31 -
+			Clicked on Register Link.. 
+2024-09-04 17:38:56 INFO  TC001_AccountRegistrationTest:35 -
+			Providing customer details...
+2024-09-04 17:38:58 INFO  TC001_AccountRegistrationTest:47 -
+			Test passed
+2024-09-04 17:38:58 INFO  TC001_AccountRegistrationTest:56 -
+			***** Finished TC001_AccountRegistrationTest *****
+2024-09-04 17:39:01 INFO  TC002_LoginTest:16 -
+			****** Startign TC_002_LoginTest *****
+2024-09-04 17:39:04 INFO  TC002_LoginTest:41 -
+			****** Finished TC_002_LoginTest *****
+2024-09-04 17:39:20 INFO  TC001_AccountRegistrationTest:22 -
+			***** Starting TC001_AccountRegistrationTest  ****
+2024-09-04 17:39:20 DEBUG TC001_AccountRegistrationTest:23 -
+			This is a debug log message
+2024-09-04 17:39:21 INFO  TC001_AccountRegistrationTest:28 -
+			Clicked on MyAccount Link.. 
+2024-09-04 17:39:21 INFO  TC001_AccountRegistrationTest:31 -
+			Clicked on Register Link.. 
+2024-09-04 17:39:21 INFO  TC001_AccountRegistrationTest:35 -
+			Providing customer details...
+2024-09-04 17:39:22 INFO  TC001_AccountRegistrationTest:47 -
+			Test passed
+2024-09-04 17:39:22 INFO  TC001_AccountRegistrationTest:56 -
+			***** Finished TC001_AccountRegistrationTest *****
+2024-09-04 17:39:30 INFO  TC002_LoginTest:16 -
+			****** Startign TC_002_LoginTest *****
+2024-09-04 17:39:32 INFO  TC002_LoginTest:41 -
+			****** Finished TC_002_LoginTest *****
+2024-09-04 17:42:00 DEBUG TestNG:82 -
+			suiteXmlPath: "E:\QA_Project\OpenCart\grid-docker.xml"
+2024-09-04 17:42:00 INFO  Utils:112 -
+			[TestNG] Running:
+  E:\QA_Project\OpenCart\grid-docker.xml
+
+2024-09-04 17:42:08 INFO  TC001_AccountRegistrationTest:22 -
+			***** Starting TC001_AccountRegistrationTest  ****
+2024-09-04 17:42:08 DEBUG TC001_AccountRegistrationTest:23 -
+			This is a debug log message
+2024-09-04 17:42:08 INFO  TC001_AccountRegistrationTest:28 -
+			Clicked on MyAccount Link.. 
+2024-09-04 17:42:09 INFO  TC001_AccountRegistrationTest:31 -
+			Clicked on Register Link.. 
+2024-09-04 17:42:10 INFO  TC001_AccountRegistrationTest:35 -
+			Providing customer details...
+2024-09-04 17:42:12 INFO  TC001_AccountRegistrationTest:47 -
+			Test passed
+2024-09-04 17:42:12 INFO  TC001_AccountRegistrationTest:56 -
+			***** Finished TC001_AccountRegistrationTest *****
+2024-09-04 17:42:15 INFO  TC002_LoginTest:16 -
+			****** Startign TC_002_LoginTest *****
+2024-09-04 17:42:18 INFO  TC002_LoginTest:41 -
+			****** Finished TC_002_LoginTest *****
+2024-09-04 17:42:29 INFO  TC001_AccountRegistrationTest:22 -
+			***** Starting TC001_AccountRegistrationTest  ****
+2024-09-04 17:42:29 DEBUG TC001_AccountRegistrationTest:23 -
+			This is a debug log message
+2024-09-04 17:42:29 INFO  TC001_AccountRegistrationTest:28 -
+			Clicked on MyAccount Link.. 
+2024-09-04 17:42:30 INFO  TC001_AccountRegistrationTest:31 -
+			Clicked on Register Link.. 
+2024-09-04 17:42:30 INFO  TC001_AccountRegistrationTest:35 -
+			Providing customer details...
+2024-09-04 17:42:32 INFO  TC001_AccountRegistrationTest:47 -
+			Test passed
+2024-09-04 17:42:32 INFO  TC001_AccountRegistrationTest:56 -
+			***** Finished TC001_AccountRegistrationTest *****
+2024-09-04 17:42:40 INFO  TC002_LoginTest:16 -
+			****** Startign TC_002_LoginTest *****
+2024-09-04 17:42:43 INFO  TC002_LoginTest:41 -
+			****** Finished TC_002_LoginTest *****
